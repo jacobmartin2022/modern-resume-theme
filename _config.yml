@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
+name: Jake Martin
 title: Your job title
 email: Your email (optional)
 phone: Your phone number (optional)
@@ -48,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Or you could title it **Skills** I supposedly know how to do this now
 
 # Footer
 footer_show_references: true
